@@ -9,17 +9,12 @@
 
   * [[bhj:obs|Open Bible Stories (bhj)]]
 
-
 **Downloads**
 
 All content for this namespace is available in the [[https://github.com/Door43/d43-bhj|d43-bhj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bhj/archive/master.zip|d43-bhj.zip]]
 
 **Recent Changes**
 {{changes>ns = bhj}}
-
-**Latest Status**
-{{page>en:uwadmin:bhj:obs:status}}
-
 
 **Language Information**
 
